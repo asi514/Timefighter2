@@ -7,6 +7,7 @@ android {
     namespace = "com.raywenderlich.timefighter"
     compileSdk = 33
 
+
     defaultConfig {
         applicationId = "com.raywenderlich.timefighter"
         minSdk = 21
